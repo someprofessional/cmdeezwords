@@ -1,0 +1,26 @@
+{
+  "easy": [
+      "cat", "dog", "sun", "hat", "ball", "book", "fish", "jump", "kite", "lamp", "moon", "star", "tree", "wind", "wolf",
+      "frog", "bear", "duck", "frog", "sand", "leaf", "hand", "nose", "card", "ball", "coin", "door", "leaf", "frog", "rain",
+      "snow", "glue", "belt", "fish", "boat", "cup", "pen", "key", "ice", "frog", "moon", "star", "bark", "palm", "rope", "sand",
+      "wind", "bat", "foot", "tent", "bike", "rock", "sun", "wind", "train", "park", "joke", "kite", "hill", "dog", "wind", "ring",
+      "wave", "ball", "jazz", "glow", "mice", "farm", "grass", "rose", "lamp", "race", "hill", "moth", "cloud", "cake", "mask"
+  ],
+  "medium": [
+      "apple", "chair", "river", "house", "table", "bread", "fruit", "light", "mouse", "phone", "plant", "shirt", "sofa", "watch", "zebra",
+      "alarm", "brass", "campus", "dance", "email", "flame", "grape", "hello", "ideal", "jelly", "knife", "laser", "model", "night", "octave",
+      "piano", "quest", "roast", "shoes", "tiger", "urban", "vivid", "wagon", "yacht", "zebra", "angel", "brace", "clock", "drive", "event",
+      "fence", "guitar", "honor", "index", "joker", "kiosk", "lunar", "mango", "ninja", "ocean", "party", "quiet", "robot", "space", "train",
+      "unzip", "vowel", "water", "xenon", "yodel", "zebra", "adult", "baker", "craft", "dream", "enjoy", "forge", "giant", "hotel", "ideal"
+  ],
+  "hard": [
+      "juxtaposition", "incomprehensible", "quintessential", "flabbergasted", "astronaut", "discrepancy", "exaggeration", "misconception", 
+      "overwhelming", "paradoxical", "synchronization", "theoretical", "unscrupulous", "vulnerable", "zealous", "abstraction", "complicated", 
+      "differentiation", "exemplification", "heterogeneous", "influential", "jurisdiction", "kinematics", "microbiology", "neuroscientific", 
+      "objectivity", "philosophical", "quantitative", "revolutionary", "speculative", "transcendental", "understanding", "vulnerability",
+      "multicultural", "misunderstanding", "perpendicular", "phenomenological", "reconciliation", "substantially", "unprecedented",
+      "neurotransmitter", "disadvantageous", "multidimensional", "counterproductive", "extrapolation", "interdisciplinary", "unquestionable",
+      "interchangeable", "electromagnetic", "differentiated", "psychological", "counterintuitive", "counterproductive", "technologically",
+      "overcompensation", "anthropomorphization", "circumstantial", "comprehensively", "disproportionate", "metaphorically", "underestimation"
+  ]
+}
